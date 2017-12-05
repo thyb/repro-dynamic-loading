@@ -11,6 +11,8 @@ chmod +x setup.sh
 ./setup.sh
 ```
 
+![Screenshot](https://raw.githubusercontent.com/thyb/repro-dynamic-loading/master/screen.png)
+
 - first button works (dynamic import of a normal button)
 - second button don't work (dynamic import of a material button)
 
