@@ -9,10 +9,11 @@ git clone git@github.com:thyb/repro-dynamic-loading.git
 cd repro-dynamic-loading
 chmod +x setup.sh
 ./setup.sh
+```
 
 - first button works (dynamic import of a normal button)
 - second button don't work (dynamic import of a material button)
-```
+
 
 # Start
 
