@@ -1,4 +1,4 @@
-# Reproduction for a bug with Angular5 - dynamic module loading
+# Bug with Angular5/Material - dynamic module loading
 
 Link of the issue: https://stackoverflow.com/questions/47342589/angular5-dynamic-component-loading-containing-material-component-in-template
 
