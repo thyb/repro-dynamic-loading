@@ -16,10 +16,9 @@ chmod +x setup.sh
 - first button works (dynamic import of a normal button)
 - second button don't work (dynamic import of a material button)
 
-
 # Start
 
-After the install, if you want to restart the app, run `npm start`
+After the install, if you want to restart the app, run `npm start` or `./node_modules/.bin/electron .`
 
 # Build
 
