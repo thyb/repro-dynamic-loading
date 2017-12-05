@@ -11,6 +11,8 @@ chmod +x setup.sh
 ./setup.sh
 ```
 
+**view => toggle developer tools**
+
 ![Screenshot](https://raw.githubusercontent.com/thyb/repro-dynamic-loading/master/screen.png)
 
 - first button works (dynamic import of a normal button)
