@@ -1,0 +1,20 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+  <h1>
+    Welcome to {{title}}!
+  </h1>
+  <h3>This works:</h3>
+  <pre>template:
+&lt;button&gt;TEST&lt;button&gt;</pre>
+  <button mat-button color="primary" (click)="load()">Load dynamic component</button>
+
+  <div #view></div>
+
+  <h3>This does not work:</h3>
+  <pre>template:
+&lt;button mat-button&gt;TEST&lt;button&gt;</pre>
+  <button mat-button color="primary" (click)="loadMaterial()">Load dynamic component</button>
+  
+  <div #view2></div>
+</div>
+
