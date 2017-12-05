@@ -25,4 +25,4 @@ After the install, if you want to restart the app, run `npm start`
 
 Build: `npm build`
 
-Watch mode: `npm build --watch
+Watch mode: `npm build --watch`
